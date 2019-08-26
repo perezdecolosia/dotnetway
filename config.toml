@@ -1,0 +1,6 @@
+baseURL = "https://www.dotnetway.com/"
+languageCode = "en-us"
+title = "Dot Net Way"
+theme = "hyde-hyde"
+googleAnalytics = "UA-70286119-4"
+disqusShortname = "dotnetway"
